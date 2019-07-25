@@ -7,8 +7,9 @@ composer bisa dibilang library yang diperuntukan untuk PHP.
 sudo apt install composer
 ```
 lalu untuk tes
-**composer -v**
-
+```bash
+composer -v
+```
 ### 2. install aws-sdk dengan composer
 **contoh penggunaan perintah "composer require":**
 ```bash
