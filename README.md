@@ -17,6 +17,12 @@ $ composer require aws/aws-sdk-php
 ### 3. composer install
 untuk penyempurnaan library yang sudah ada di **composer.json**
 
+### 4. RUN
+run di terminal atau commendpromp
+
+```bash
+$ php index.php
+```
 
 ### Referensi
 
