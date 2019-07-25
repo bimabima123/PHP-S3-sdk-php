@@ -15,4 +15,4 @@ lalu untuk tes
 $ composer require aws/aws-sdk-php
 ```
 ### 3. composer install
-untuk penyempurnaan library yang sudah ada di composer.json
+untuk penyempurnaan library yang sudah ada di **composer.json**
