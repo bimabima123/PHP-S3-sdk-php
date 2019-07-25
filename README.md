@@ -2,10 +2,10 @@
 
 composer bisa dibilang library yang diperuntukan untuk PHP.
 
-##Jika menggunakan keluarga linux
-ketik dibagian terminal
-**apt install composer**
-
+## Jika menggunakan keluarga linux ketik dibagian terminal
+```bash
+sudo apt install composer
+```
 lalu untuk tes
 **composer -v**
 
