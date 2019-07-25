@@ -20,5 +20,5 @@ untuk penyempurnaan library yang sudah ada di **composer.json**
 
 ### Referensi
 
-https://docs.min.io/docs/how-to-use-aws-sdk-for-php-with-minio-server.html
-https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/getting-started_installation.html
+[https://docs.min.io/docs/how-to-use-aws-sdk-for-php-with-minio-server.html](#AWS)
+https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/getting-started_installation.html(#MINIO)
